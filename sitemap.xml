@@ -66,9 +66,24 @@
   
     
     <url>
-      <loc>http://localhost:4000/blog.html</loc>
+      <loc>http://localhost:4000/about.html</loc>
       
-        <lastmod>2021-10-20T23:52:54+05:30</lastmod>
+        <lastmod>2021-10-21T03:09:08+05:30</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/faq.html</loc>
+      
+        <lastmod>2021-10-21T03:09:08+05:30</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -83,28 +98,13 @@
     <url>
       <loc>http://localhost:4000/</loc>
       
-        <lastmod>2021-10-20T23:52:54+05:30</lastmod>
+        <lastmod>2021-10-21T03:09:08+05:30</lastmod>
       
       
         <changefreq>monthly</changefreq>
       
       
         <priority>0.9</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/resume.html</loc>
-      
-        <lastmod>2021-10-20T23:52:54+05:30</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
       
     </url>
     
